@@ -14,5 +14,4 @@ def list_of_public():
     for i in range(0, response.json()['response']['count']):
         pprint(response.json()['response']['items'][i]['name'])
 
-
 list_of_public()
