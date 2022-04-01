@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup as bs
 jobs_input_name = input('Job: ')
 
 def get_url(page):
-
     url = f'https://spb.hh.ru/search/vacancy?search_' \
           f'field=name&search_field=company_name&search_' \
           f'field=description&text={jobs_input_name}&page={page}&hhtmFrom=vacancy_search_list'
