@@ -65,6 +65,9 @@ def scrap_news_mail():
         news_date = datetime.strptime(str(news_date[0]),
                                       '%Y-%m-%dT%H:%M:%S%z')
         element['date'] = news_date.strftime('%Y-%m-%d %H:%M')
+        news_source = dom.xpath('//span[contains(@class, "note")]/*'
+                                '/span[contains(@class, "link__text")]/text()')
+        element['source'] = str(news_source[0])
         news_list.append(element)
 
     return news_list
