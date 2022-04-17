@@ -1,0 +1,343 @@
+1649686843563	geckodriver	INFO	Listening on 127.0.0.1:55379
+1649686843607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "51477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoh5mnG"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649686845144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoh5mnG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51477/devtools/browser/6f7c25d9-cb7f-4c30-b72d-74c8ab5a13c6
+1649686847245	Marionette	INFO	Listening on port 37523
+Read port: 37523
+1649686847374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1649686853661	Marionette	INFO	Stopped listening on port 37523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649686914004	geckodriver	INFO	Listening on 127.0.0.1:58811
+1649686914010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "48283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0R6gEY"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649686915721	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0R6gEY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48283/devtools/browser/2f0da711-1e0f-4bc6-981a-7d917e867ac7
+1649686917613	Marionette	INFO	Listening on port 44487
+Read port: 44487
+1649686917652	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=34d90e3bb30eff298dedfbdb720ee15ba437&rid=vYwi5ij8EYrboocyRN7JQsJ4Y0U&reg=78&referer=http%3A%2F%2Fww1.start-maximized.com%2F, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649686930826	Marionette	INFO	Stopped listening on port 44487
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649687170166	geckodriver	INFO	Listening on 127.0.0.1:36047
+1649687170172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start_maximized" "--remote-debugging-port" "44295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9CPNZv"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687171994	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9CPNZv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44295/devtools/browser/e18e8a08-eb5e-4b79-ad86-aed62bf3ee96
+1649687174139	Marionette	INFO	Listening on port 35395
+Read port: 35395
+1649687174211	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687180685	Marionette	INFO	Stopped listening on port 35395
+1649687184927	geckodriver	INFO	Listening on 127.0.0.1:57839
+1649687184935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "48149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8Hvrss"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687186276	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8Hvrss/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48149/devtools/browser/729be3f3-60ab-458e-a7f1-1012d454c025
+1649687188510	Marionette	INFO	Listening on port 37827
+Read port: 37827
+1649687188582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649687213316	Marionette	INFO	Stopped listening on port 37827
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649687222056	geckodriver	INFO	Listening on 127.0.0.1:39571
+1649687222062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "54237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXGtGVm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687223611	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXGtGVm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54237/devtools/browser/97a687ea-4e5a-4d4a-b96e-2b56fabf080e
+1649687225667	Marionette	INFO	Listening on port 39625
+Read port: 39625
+1649687225704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687247443	Marionette	INFO	Stopped listening on port 39625
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649687342545	geckodriver	INFO	Listening on 127.0.0.1:42457
+1649687342551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileedCfIu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687344322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileedCfIu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57157/devtools/browser/4adf8285-2b89-4046-91e3-359a56612af6
+1649687346183	Marionette	INFO	Listening on port 36369
+Read port: 36369
+1649687346303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687357634	Marionette	INFO	Stopped listening on port 36369
+1649687499440	geckodriver	INFO	Listening on 127.0.0.1:53359
+1649687499448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "52247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledve9EF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687501059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledve9EF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52247/devtools/browser/923e5b22-61ed-434a-bdd4-144e3a5ea7ab
+1649687503302	Marionette	INFO	Listening on port 39719
+Read port: 39719
+1649687503376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: http://p.2ad.wtf/ad/base.js?id=34d90e3bb30eff298dedfbdb720ee15ba437&rid=nwv2SnF_cg6Bt8Z0Y_bsm_rTD6U&reg=78&referer=http%3A%2F%2Fww1.start-maximized.com%2F, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649687510491	Marionette	INFO	Stopped listening on port 39719
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649687519817	geckodriver	INFO	Listening on 127.0.0.1:51657
+1649687519830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "start-maximized" "--remote-debugging-port" "39543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesRSRnK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687521426	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesRSRnK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39543/devtools/browser/90370d08-9fe7-4224-a1ec-d05efb12e2f5
+1649687523432	Marionette	INFO	Listening on port 39727
+Read port: 39727
+1649687523466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649687530075	Marionette	INFO	Stopped listening on port 39727
+1649687539925	geckodriver	INFO	Listening on 127.0.0.1:36561
+1649687539931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaW5HK5"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687541381	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaW5HK5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51903/devtools/browser/657b651f-67f5-4fa5-bf2d-64ac2deee4be
+1649687543537	Marionette	INFO	Listening on port 35843
+Read port: 35843
+1649687543565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687551379	Marionette	INFO	Stopped listening on port 35843
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PMessagePort::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PBackgroundIDBDatabase::Msg_Close) Channel closing: too late to send/recv, messages will be lost
+
+1649687599207	geckodriver	INFO	Listening on 127.0.0.1:53317
+1649687599216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile15yxB6"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687600491	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile15yxB6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38711/devtools/browser/3572e06e-b39b-488a-b7b1-4c4681c0cefc
+1649687602392	Marionette	INFO	Listening on port 34539
+Read port: 34539
+1649687602455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687613889	Marionette	INFO	Stopped listening on port 34539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649687649219	geckodriver	INFO	Listening on 127.0.0.1:48743
+1649687649226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCtuvdF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687650560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCtuvdF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50965/devtools/browser/9907d976-0981-4d06-ac6f-82ca4ba27236
+1649687652410	Marionette	INFO	Listening on port 44135
+Read port: 44135
+1649687652454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687701339	Marionette	INFO	Stopped listening on port 44135
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649687703417	geckodriver	INFO	Listening on 127.0.0.1:35825
+1649687703424	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilettZ3mz"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687705152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilettZ3mz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43825/devtools/browser/111bc8dd-89ea-4f4b-8d83-eac0a08fb65b
+1649687706912	Marionette	INFO	Listening on port 40757
+Read port: 40757
+1649687706963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687799505	geckodriver	INFO	Listening on 127.0.0.1:46987
+1649687799515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39171" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexV7jmF"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649687801011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexV7jmF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39171/devtools/browser/93a6302b-1be9-479a-a815-e0938982fd52
+1649687803158	Marionette	INFO	Listening on port 39319
+Read port: 39319
+1649687803250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649687811140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1649687811652	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649688159960	geckodriver	INFO	Listening on 127.0.0.1:58215
+1649688159965	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFa6oYu"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688161578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFa6oYu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33531/devtools/browser/e41e0733-1a65-42be-943b-f54884b15111
+1649688163605	Marionette	INFO	Listening on port 46535
+Read port: 46535
+1649688163701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688172630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649688180312	Marionette	INFO	Stopped listening on port 46535
+1649688194189	Marionette	INFO	Stopped listening on port 39319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649688195289	Marionette	INFO	Stopped listening on port 40757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649688199525	geckodriver	INFO	Listening on 127.0.0.1:47927
+1649688199536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilew0cwfI"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688201222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew0cwfI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46937/devtools/browser/188901c7-491a-465b-a0ac-a28a043376fe
+1649688203135	Marionette	INFO	Listening on port 43939
+Read port: 43939
+1649688203173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688218955	Marionette	INFO	Stopped listening on port 43939
+1649688228781	geckodriver	INFO	Listening on 127.0.0.1:51583
+1649688228786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2YVYKU"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688230063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2YVYKU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41535/devtools/browser/f9606598-421f-4bc7-9521-12231b0d0e91
+1649688232048	Marionette	INFO	Listening on port 36191
+Read port: 36191
+1649688232127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688239395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1649688247137	Marionette	INFO	Stopped listening on port 36191
+1649688409802	geckodriver	INFO	Listening on 127.0.0.1:56891
+1649688409807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCARdFE"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688411637	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCARdFE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39795/devtools/browser/1e0cc4ac-e5a6-432f-8452-262dc144a21e
+1649688413619	Marionette	INFO	Listening on port 34465
+Read port: 34465
+1649688413666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688421722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649688429229	Marionette	INFO	Stopped listening on port 34465
+1649688448636	geckodriver	INFO	Listening on 127.0.0.1:57281
+1649688448641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilem3k5aJ"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688450025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem3k5aJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43063/devtools/browser/7c95e803-9d22-4b43-868d-83be9cf67b2e
+1649688452185	Marionette	INFO	Listening on port 43871
+Read port: 43871
+1649688452260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688466042	Marionette	INFO	Stopped listening on port 43871
+1649688654682	geckodriver	INFO	Listening on 127.0.0.1:58457
+1649688654691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile64CGAV"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688656594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile64CGAV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48735/devtools/browser/7b05f2c5-3fe0-4f85-a243-12035ed7c1b2
+1649688658476	Marionette	INFO	Listening on port 46011
+Read port: 46011
+1649688658538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688675938	Marionette	INFO	Stopped listening on port 46011
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649688815863	geckodriver	INFO	Listening on 127.0.0.1:36219
+1649688815871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh2pgKm"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1649688817271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh2pgKm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52405/devtools/browser/fb0742cd-683c-4b81-9917-04dd4609f0e2
+1649688819274	Marionette	INFO	Listening on port 38493
+Read port: 38493
+1649688819313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: SVGA3D; build: RELEASE;  LLVM;
+1649688827630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649688834966	Marionette	INFO	Stopped listening on port 38493
