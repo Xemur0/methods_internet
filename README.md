@@ -1,2 +1,2 @@
 # methods_internet
-Training API's
+Training API's and libraries
